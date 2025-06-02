@@ -2,3 +2,14 @@ python-dotenv
 python-dotenv
 streamlit==1.35.0
 python-dotenv==1.0.1
+langchain_groq
+streamlit
+dotenv
+langchain
+ChatGroq
+PromptTemplate
+LLMChain
+streamlit
+python-dotenv
+langchain
+langchain_groq
